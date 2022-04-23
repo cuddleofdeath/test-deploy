@@ -4,14 +4,16 @@ export default function Home() {
 	return (
 		<div className="container">
 			<Head>
-				<title>Next Testing</title>
+				<title>Create Next App</title>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
 			<main>
-				<h1 className="title">Welcome to CuddleofDeath's test page!</h1>
+				<h1 className="title">This is the testing page.</h1>
 
-				<p className="description">Who knows what will happen next?</p>
+				<p className="description">
+					I am testing this out. It is a multi-page application!
+				</p>
 			</main>
 
 			<footer>
